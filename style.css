@@ -1,0 +1,55 @@
+
+.bgBlue{
+    background-color: white;
+}
+
+.hide{
+    visibility: hidden;
+}
+.hide2{
+visibility: hidden;
+}
+
+.endtxt{
+    display: none;
+}
+.c p {
+    color:white;
+}
+.c{
+    color:black;
+}
+.show{
+visibility: visible;
+}
+#leoheader{
+    color: black;
+}
+.messageHeader{
+    color: black;
+}
+#charcounter{
+    color:black;
+}
+
+p{
+    text-align: center;
+}
+body{
+    margin :auto;
+    width: 50%;
+    background-color: black;
+}
+#header, .header1{
+    color: black ;
+    text-align: center;
+}
+label {
+    text-align:center ;
+}
+input{
+    text-align: center;
+}
+.b, .c{
+    text-align: center;
+}
